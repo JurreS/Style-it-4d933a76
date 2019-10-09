@@ -1,0 +1,32 @@
+td {
+    border: solid black;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+}
+body {
+     font-size: 2.4em;
+     background-color:  ;
+}
+td.grey{
+    background-color: rgb(150, 133, 133);
+}
+td.powderblue
+{
+    background-color: rgb(199, 199, 198);
+}
+th.powderblue
+{
+    background-color: rgb(254, 255, 254);
+    border: solid black;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+}
+a:hover{
+    background-color: rgb(251, 255, 0);
+    cursor: pointer;
+}
+td.no{
+border: 1px;
+}
